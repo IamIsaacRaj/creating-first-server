@@ -1,0 +1,19 @@
+{
+  "name": "creating-first-server",
+  "version": "1.0.0",
+  "description": "My first node js server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamIsaacRaj/creating-first-server.git"
+  },
+  "author": "Raju Gudikati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamIsaacRaj/creating-first-server/issues"
+  },
+  "homepage": "https://github.com/IamIsaacRaj/creating-first-server#readme"
+}
